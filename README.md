@@ -1,8 +1,8 @@
 # @ashbot/website
 
-**Simple website for my [Discord](https://ashbot.me/add) bot**
+**Simple website for my [Discord](https://top.gg/bot/581075056956801056) bot**
 
-[Demo](https://ashbot.me)
+[Demo](https://ash.pages.dev)
 
 ## Deployment
 
@@ -12,7 +12,7 @@ You can use [Vercel](https://vercel.com) for free hosting
 
 ## Author
 
-- [Bae](https://github.com/baen)
+- [Bae](https://github.com/PlatinBae)
 
 ## Contributing
 
